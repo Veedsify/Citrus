@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+	body{ background:#333439; color:#9598a4; }
+	
+	h1, h2, h3, h4, h5, h6{color:#9598a4;}
+	
+	.boxed .wrapper, .boxed #main-content{background-color:#333439;}
+	
+	.main-title h2, .main-title h3{border-bottom:1px solid #656873;}
+	
+	/*----*****---- << Header >> ----*****----*/
+	
+	#header{ background:#161719; }
+	
+	nav a{color:#ffffff;}
+	
+	.dt-sc-button:hover, input[type="submit"]:hover{background:none;}
+	
+	/*----*****---- << services >> ----*****----*/
+	
+	.dt-sc-icon-content.type1 .hexagon2 .fa, .theme-service .hexagon-shapes .fa{color:#ffffff;}
+	
+	.theme-service .left:hover .hexagon2, .theme-service .right:hover .hexagon2{background-color:#ffffff;}
+	
+	.dt-sc-team h6, .about-us-detail h6, .theme-service p{color:#656873;}
+	
+	.dt-sc-icon-content.type2 h2, .dt-sc-icon-content.type2 .hexagon-shapes .fa{color:#181818;}
+	
+	.about-us-detail{background:url(../images/full-width-bg-about-dark.jpg) repeat left top;}
+	
+	/*----*****---- << Portfolio >> ----*****----*/
+	
+	.sorting-container a{background-color:#656873; color:#9598a4;}
+	
+	.project-details .dt-sc-social-icons li .hexagon2{background-color:#333439;}
+	
+	.project-details .dt-sc-social-icons li .hexagon2, .project-details .dt-sc-social-icons li .hexagon2 .corner1, .project-details .dt-sc-social-icons li .hexagon2 .corner2{ border-right:1px solid #656873; border-left:1px solid #656873;}
+
+	.project-details .dt-sc-social-icons li .hexagon2 .fa{color:#9598a4;}
+	
+	.project-details .dt-sc-social-icons li:hover .hexagon2 .fa{color:#ffffff;} 
+	
+	/*----*****---- << Team >> ----*****----*/
+	
+	.dt-sc-icon-content.type1 .hexagon2, .theme-service .hexagon2{background-color:#656873;}
+	
+	.dt-sc-team .dt-sc-social-icons .hexagon2, .dt-sc-team .dt-sc-social-icons .hexagon2 .corner1, .dt-sc-team .dt-sc-social-icons .hexagon2 .corner2{background-color:#333439;}
+	
+	.dotted-full-width, .recent-portfolio-bg{background:url(../images/full-width-bg-about-dark.jpg) repeat left top; }
+	
+	/*----*****---- << Blog >> ----*****----*/
+	
+	.entry-metadata .hexagon2, .entry-metadata .hexagon2 .corner1, .entry-metadata .hexagon2 .corner2{background-color:#333439;}
+	
+	.black-box .entry-details .entry-metadata h6, .black-box .entry-details .entry-metadata h6 a, .black-box .entry-details .entry-metadata span, .entry-metadata .hexagon2 .fa, .entry-body blockquote, .entry-body blockquote q, ul.commentlist li .commentmetadata, .author-title, .widget.widget_tag_cloud .tagcloud a{ color:#656873; }
+	
+	.entry-metadata .hexagon2, .entry-metadata .hexagon2 .corner1, .entry-metadata .hexagon2 .corner2{border-left:1px solid #656873; border-right:1px solid #656873;}
+	
+	.blog-entry, .post-author-details, ul.commentlist li .comment-body{border-bottom:1px solid #656873;}
+	
+	.commentlist:before, ul.commentlist li ul.children:before{background-color:#656873;}
+	
+	.author-desc h5 a, ul.commentlist li .author-name a, ul.commentlist li .comment-body, .widget h4.widgettitle a, .widget ul li a{color:#9598a4;}
+	
+	ul.commentlist li .reply{background-color:#333439;}
+	
+	.widget.widget_tag_cloud .tagcloud a{border:1px solid #656873;}
+	
+	.entry-details .entry-title h4 a:hover{color:#ffffff;}
+	
+	/*----*****---- << Contacts >> ----*****----*/
+	
+	textarea, input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"]{color:#656873;}
+	
+	.dt-sc-contact-info p{color:#9598a4;}
+	
+	#commentform input[type="text"], #commentform input[type="password"], #commentform input[type="email"], #commentform input[type="url"], #commentform input[type="tel"], #commentform input[type="number"], #commentform input[type="range"], #commentform input[type="date"], #commentform input[type="search"], #commentform textarea, #commentform input.text{background-color:#181818; color:#656873;}
+
+
+	.grey{color:#656873;}
+	
